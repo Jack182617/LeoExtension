@@ -99,7 +99,7 @@ let kNavBgColor = UIColor.white
 let kDisableColor = UIColor.lightGray
 
 //列表背景灰色
-let kTableViewBgColor = UIColor.init(hex: 0xf0f0f0)
+//let kTableViewBgColor = UIColor.init(hex: 0xf0f0f0)
 
 
 // MARK:- xib尺寸适配
