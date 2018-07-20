@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Leo-Extension"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "自己常用的一些扩展"
   s.license      = { :type => "MIT" }
   s.homepage 	 = 'https://github.com/yuanjieaili/LeoExtension'
